@@ -1,0 +1,5 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="t" />
+  </action>
+</keymap>
