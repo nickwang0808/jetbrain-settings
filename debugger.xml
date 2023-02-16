@@ -3,6 +3,16 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="enableExternalSourceDebug" value="false" />
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
